@@ -99,18 +99,19 @@ root.mainloop()
 <a id="screens1"></a>
 ### Скриншоты
 * Главный экран
-![IMG_1912](https://user-images.githubusercontent.com/97599612/167812257-7bceca54-7ed3-4200-94ab-47dec1f520c9.JPG)
+<img width="522" alt="GG1" src="https://user-images.githubusercontent.com/97599612/168244955-b6cc58ed-df8c-4999-9f31-1e26f4e9dd75.png">
 
 * При нажатии кнопки 'Сгенерировать число' появлятся всплывающее окно
-![IMG_1913](https://user-images.githubusercontent.com/97599612/167812265-d392f42d-6bcb-47a3-ab05-8a6e462f22c3.JPG)
+<img width="701" alt="GG2" src="https://user-images.githubusercontent.com/97599612/168244979-1cd0bde4-a884-4766-bd97-74a7ff40d276.png">
 
-* Программа дает подсказки (больше, меньше) при если введеное число не равно загаданному
-![IMG_1915](https://user-images.githubusercontent.com/97599612/167812273-f9e0c50a-2c8f-41b0-900e-d8e87f183dcb.JPG)
+* Программа дает подсказки (больше, меньше) если введеное число не равно загаданному
+<img width="520" alt="GG3" src="https://user-images.githubusercontent.com/97599612/168244995-5215f805-65b6-43c9-81fe-f67f86b2ed2d.png">
 
-![IMG_1914](https://user-images.githubusercontent.com/97599612/167812268-e21d7e47-2ae9-4dbe-bd37-86a237da5c1c.JPG)
+* Программа дает подсказки (больше, меньше) если введеное число не равно загаданному
+<img width="523" alt="GG4" src="https://user-images.githubusercontent.com/97599612/168245005-99bae883-4376-45d8-938e-1601358372e5.png">
 
 * Вы отгадали! Загаднное число __
-![IMG_1916](https://user-images.githubusercontent.com/97599612/167812033-63d54bcf-1c7f-4bab-9186-33fa936ef0a9.JPG)
+<img width="530" alt="GG5" src="https://user-images.githubusercontent.com/97599612/168245010-31fa2799-4137-447a-b892-135ab92bba72.png">
 
 ___
 ___
@@ -204,13 +205,13 @@ window.mainloop()
 
 * Главное окно с кнопками '>', '<', '=' и 'Старт'.
 При нажатии на 'Старт' на экран будет выведено число. Если число не равно Вашему, Вы можете воспользоваться кнопками '>' или '<'. Когда компьютер угадает Ваше число, нажмите '='.
-![IMG_1909](https://user-images.githubusercontent.com/97599612/167812206-713409bc-d5ae-4938-91e6-30f51e2dcdec.JPG)
+<img width="453" alt="GGR1" src="https://user-images.githubusercontent.com/97599612/168245014-cb20ccb7-fbba-41c6-b042-47e77b88feac.png">
 
 * При возникновении ValueError появится всплывающее окно
-![IMG_1911](https://user-images.githubusercontent.com/97599612/167812250-f4365674-3053-4f9e-84b6-0b2b2a917709.JPG)
+<img width="757" alt="GGR2" src="https://user-images.githubusercontent.com/97599612/168245015-c838de3a-cf7e-48c4-b0d0-f764be484d97.png">
 
 * Компьютер угадал число
-![IMG_1910](https://user-images.githubusercontent.com/97599612/167812242-4a8d273c-51aa-415c-b27d-5be88b3c3cde.JPG)
+<img width="453" alt="GGR3" src="https://user-images.githubusercontent.com/97599612/168245016-ed4d4694-6adb-4460-b17a-4f9d4cc07174.png">
 
 
 [Вверх](#anchor)
